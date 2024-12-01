@@ -5,11 +5,11 @@ date:   2024-12-01 10:35:20 +0330
 categories: dotnet documentation http
 ---
 
-> **Warning! To use .http files, you must have Visual Studio 2022 version 17.6 or later installed with the ASP.NET and web development environment.**
-
 I have always had to rely on tools like Postman/Insomnia or REST Client tools to test the endpoints of API projects that do not have Swagger. Given the state of internet connectivity and the cloud-based features of these applications (especially Postman), I faced time-consuming limitations until I was recently introduced to .http files by one of my colleagues.
 
 These files provide a very simple solution for testing API project endpoints, which I believe share some similarities with curl.
+
+> **Warning! To use .http files, you must have Visual Studio 2022 version 17.6 or later installed with the ASP.NET and web development environment.**
 
 Let's take a look at an example:
 
@@ -20,7 +20,9 @@ First, open the project in Solution Explorer, right-click on the folder where yo
 To test, we can use the endpoints from the reqres.in website:
 
  
- `GET https://reqres.in/api/users?page=2`
+ ```
+  GET https://reqres.in/api/users?page=2
+ ```
 
 You can test it using the "Send Request" button above the GET.
 
