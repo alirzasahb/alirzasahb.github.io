@@ -15,7 +15,7 @@ Let's take a look at an example:
 
 First, open the project in Solution Explorer, right-click on the folder where you want to create the file, and select .http from the available options:
 
-![create .http file](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/baqxskqlen5g.webp)
+![create .http file](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/baqxskqlen5g.webp)
 
 To test, we can use the endpoints from the reqres.in website:
 
@@ -24,15 +24,15 @@ To test, we can use the endpoints from the reqres.in website:
 
 You can test it using the "Send Request" button above the GET.
 
-![Send Request Button for Calling the Endpoint](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/onevrv8uspqx.webp)
+![Send Request Button for Calling the Endpoint](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/onevrv8uspqx.webp)
 
 The result will be displayed next to the file in this format:
 
 ![Result of Calling One of the Endpoints
-](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/t7y9y1przncu.webp)
+](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/t7y9y1przncu.webp)
 
 ![Detailed Result of Calling One of the Endpoints
-](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/shuxvoicj2g5.webp)
+](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/shuxvoicj2g5.webp)
 
 Now, what if we need to add a header?
 
@@ -46,7 +46,7 @@ To add a header, we can use the following method:
 In the results section, we can verify that our header was sent:
 
 ![Checking the Presence of Header in the Request We Sent
-](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/qzx6qztsjxfi.webp)
+](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/qzx6qztsjxfi.webp)
 
 To send a body, we can use the following method:
 
@@ -63,12 +63,12 @@ Content-Type: application/json
 Let’s take a look at the POST request along with the inputs.
 
 ![POST Request with Inputs
-](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/dlos3mwyknm6.webp)
+](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/dlos3mwyknm6.webp)
 
 Finally, let's review the output together.
 
 ![POST Request with Inputs Output
-](../assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/zgbws0az6p8y.webp)
+](https://alirzasahb.github.io/assets/images/thoughts/2024-12-01-dotnet-http-documentation-file/zgbws0az6p8y.webp)
 
 ## Advantages
 
