@@ -37,7 +37,7 @@ plugins:
 
 # Pagination
 paginate: 5 # jekyll-paginate > items per page
-paginate_path: page:num # jekyll-paginate > blog page
+paginate_path: blg/page:num # jekyll-paginate > blog page
 
 collections:
   posts:
