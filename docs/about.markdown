@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> Hello 👋, My Name Is Alireza, Glad to Meet You! I am a software engineer with a passion for the open-source world. When I'm not solving technical challenges, you can find me reading books or watching anime. Here, I share my technical and non-technical experiences, and I’m excited to share what I know while learning from the experiences and insights of others.
+> Hi, I'm Alireza — welcome!
+I'm a software engineer with a deep appreciation for the open-source community. I enjoy tackling technical challenges, but when I’m not coding, you’ll likely find me immersed in a good book or exploring the world of anime.
+
+This blog is a space where I share both technical insights and personal reflections. I’m here to contribute what I’ve learned, and just as importantly, to grow through the ideas and experiences of others. Thanks for stopping by!
